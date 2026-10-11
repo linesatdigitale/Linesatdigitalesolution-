@@ -1,0 +1,10 @@
+CARTE DE VISITE DIGITALE — LINESAT DIGITALE SOLUTION
+
+Le site est prêt dans index.html.
+Les boutons WhatsApp, Facebook, localisation et téléchargement du contact sont configurés.
+
+IMPORTANT :
+- Le site n'est pas encore publié sur Internet : il n'a donc pas encore de lien public définitif.
+- Le QR code doit être généré après publication, afin qu'il pointe vers le lien public réel.
+- Pour publier, téléversez ces fichiers sur un hébergeur de site statique. GitHub Pages est une option gratuite pour un site statique, avec un dépôt public. Guide officiel : https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+- Gardez index.html, logo-linesat.jpeg et contact.vcf dans le même dossier à la publication.
